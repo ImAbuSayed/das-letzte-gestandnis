@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Das letzte Geständnis
+
+This log tracks the cryptographic history and versioning for the song **Das letzte Geständnis** (das-letzte-gestandnis).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:37:36.786775 | `v1` | `94d63c568ac05213e470d6c280f471e592e4418d6687b1b79393362896e183f2` | `86505b4f26e4332e6f0a24a0a5e45a0ab16f8ea6d897c1c88bf4e9673834581c` | `2026-06-28_das-letzte-gestandnis-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

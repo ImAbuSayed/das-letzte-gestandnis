@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-letzte-gestandnis/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Das letzte Geständnis](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-letzte-gestandnis/) |
+| **Get License** | [Request Licensing for Das letzte Geständnis](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-letzte-gestandnis/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `94d63c568ac05213e470d6c280f471e592e4418d6687b1b79393362896e183f2` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
