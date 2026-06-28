@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-letzte-gestandnis/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Das letzte Geständnis](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-letzte-gestandnis/) |
+| **Get License** | [Official Music Licensing for Das letzte Geständnis](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-letzte-gestandnis/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Stadt ist laut, doch ich hör' nur deinen Herzschlag, Babe
+> Dein Blick trifft mich, wilder Bass in der Dunkelheit
+> Komm, steig in den Benz, wir lassen alle Lichter steh'n
+> Nur du und ich, lass uns bis ans Limit geh'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
